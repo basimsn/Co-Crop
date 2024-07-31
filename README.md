@@ -1,6 +1,8 @@
 # Co-Crop
 ## Project Description
-Co-Crop is an innovative community hub designed to facilitate the sharing and exchange of locally grown crops. This platform enables members to meet, interact, and trade produce within their community, fostering local connections and promoting sustainability. Users can browse crop listings in their vicinity, connect with local growers, schedule meetups, and even list their own produce for sale. Additionally, Co-Crop provides valuable resources and tutorials for those interested in starting their own gardens.
+Co-Crop is an innovative community hub designed to facilitate the sharing and exchange of locally grown crops. This platform enables members to meet, interact, and trade produce within their community, fostering local connections and promoting sustainability. Users can browse crop listings in their vicinity, connect with local growers, schedule meetups, and even list their own produce for sale. Additionally, Co-Crop provides valuable resources and tutorials for those interested in starting their own gardens. 
+
+1st Place Video Submission: https://www.youtube.com/watch?v=5mlJHvTHWkE
 
 ## Features
 Browse Crop Listings: Easily search for and explore crop listings in your area.
